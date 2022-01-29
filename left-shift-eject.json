@@ -2,8 +2,7 @@
   "title": "Change Shift to dual keys, Shift and Eject.",
   "rules": [
     {
-      "description": "Change Shift to Eject if pressed with other keys, keep Shift if pressed alone. 
-                      You can click Command + Option + Shift to Sleep your Mac now.",
+      "description": "Change Shift to Eject if pressed with other keys, keep Shift if pressed alone. You can click Command + Option + Shift to Sleep your Mac now.",
       "manipulators": [
         {
           "type": "basic",
