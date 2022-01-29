@@ -1,2 +1,10 @@
 # Karabiner-shortcut-sleep
-Change Shift to dual keys, Shift and Eject.
+Change _Shift_ to dual keys, _Shift_ and _Eject_.
+
+### Description
+Change _Shift_ to _Eject_ if pressed with other keys, keep _Shift_ if pressed alone. You can click _Command_ + _Option_ + _Shift_ to Sleep your Mac now.
+
+### Instalation
+Visit URL: https://genesy.github.io/karabiner-complex-rules-generator/#eyJ0aXRsZSI6IkNoYW5nZSBTaGlmdCB0byBkdWFsIGtleXMsIFNoaWZ0IGFuZCBFamVjdC4iLCJydWxlcyI6W3siZGVzY3JpcHRpb24iOiJDaGFuZ2UgU2hpZnQgdG8gRWplY3QgaWYgcHJlc3NlZCB3aXRoIG90aGVyIGtleXMsIGtlZXAgU2hpZnQgaWYgcHJlc3NlZCBhbG9uZS4gWW91IGNhbiBjbGljayBDb21tYW5kICsgT3B0aW9uICsgU2hpZnQgdG8gU2xlZXAgeW91ciBNYWMgbm93LiIsIm1hbmlwdWxhdG9ycyI6W3sidHlwZSI6ImJhc2ljIiwiZnJvbSI6eyJrZXlfY29kZSI6ImxlZnRfc2hpZnQiLCJtb2RpZmllcnMiOnsib3B0aW9uYWwiOlsiYW55Il19fSwidG8iOlt7ImtleV9jb2RlIjoiZWplY3QifV0sInRvX2lmX2Fsb25lIjpbeyJrZXlfY29kZSI6ImxlZnRfc2hpZnQifV19XX1dfQ==
+
+And click ***Install!***. 
